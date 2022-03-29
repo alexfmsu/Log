@@ -5,12 +5,13 @@
 package fmt2
 
 import (
-    fmtsort "fmtsort2"
     "io"
     "os"
     "reflect"
     "sync"
     "unicode/utf8"
+
+    fmtsort "github.com/alexfmsu/Log2/fmtsort2"
 )
 
 // Strings for use with buffer.WriteString.
