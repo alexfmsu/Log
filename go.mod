@@ -1,5 +1,3 @@
-module github.com/alexfmsu/Log2
+module github.com/alexfmsu/Log
 
 go 1.18
-
-require github.com/alexfmsu/Log v0.1.0
