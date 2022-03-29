@@ -5,7 +5,7 @@
 package fmt2
 
 import (
-    fmtsort "fmtsort2"
+    fmtsort "Log2/fmtsort2"
     "io"
     "os"
     "reflect"
