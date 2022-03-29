@@ -2,6 +2,6 @@ package Log2
 
 import "fmt"
 
-func Hello() string {
+func Hello() {
 	fmt.Printf("Hello, You!")
 }
