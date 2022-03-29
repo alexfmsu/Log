@@ -11,7 +11,7 @@ import (
     "sync"
     "unicode/utf8"
 
-    fmtsort "github.com/alexfmsu/Log2/fmtsort2"
+    fmtsort "github.com/alexfmsu/Log/fmtsort2"
 )
 
 // Strings for use with buffer.WriteString.
