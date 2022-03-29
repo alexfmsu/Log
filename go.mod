@@ -1,2 +1,3 @@
-module github.com/alexfmsu/Log2
+module Log2.go
+
 go 1.18
